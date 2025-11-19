@@ -1,4 +1,4 @@
-import Logo from '../assets/logo.png';
+import Logo from '../assets/Logo.png';
 import { ArrowUpRight, Menu, X } from 'lucide-react';
 import { motion } from 'framer-motion';
 
